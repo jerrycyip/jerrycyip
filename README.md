@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jerrycyip
-- 👀 I’m interested in web development and product management opportunities using REACT JS, JS, HTML, CSS.
-- 🌱 I’m currently continuing my studies to learn the finer nuances of REACT JS ...
-- 💞️ I’m looking to collaborate on new projects that can leverage my skills and make an impact...
+- 👀 I’m interested in web development opportunities using REACT JS, JS, HTML, CSS.
+- 🌱 I’m currently continuing my studies to learn the finer nuances of REACT JS.
+- 💞️ I’m looking to collaborate on new projects that can leverage my software development skills and passion for product management.
 - 📫 How to reach me: https://www.linkedin.com/in/jerrycyip/
 
 <!---
