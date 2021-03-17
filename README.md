@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jerrycyip
-- 👀 I’m interested in web development opportunities using REACT JS, Node, JS (ES6+), HTML, CSS.
-- 🌱 I’m currently learning the finer nuances of REACT JS.
-- 💞️ I’m looking to collaborate on new projects that can leverage my software development skills and passion for product management.
-- 📫 How to reach me: https://www.linkedin.com/in/jerrycyip/
+- 👋  Hi, I’m @jerrycyip
+- 👀  I’m interested in web development opportunities using REACT JS, Node, JS (ES6+), HTML, CSS.
+- 🌱  I’m currently learning the finer nuances of REACT JS.
+- 💞️  I’m looking to collaborate on new projects that can leverage my software development skills and passion for product management.
+- 📫  How to reach me: https://www.linkedin.com/in/jerrycyip/
 
 <!---
 jerrycyip/jerrycyip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
